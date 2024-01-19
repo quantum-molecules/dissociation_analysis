@@ -1,0 +1,98 @@
+{
+    "2023_02_08_11h_37m_02s_dissociation_measurement": {
+        "exclude_events": [],
+        "last_event": 25,
+        "label": "265 p6 2 230208",
+        "power": 6.0,
+        "ppdivider": 100,
+        "wavelength": 265,
+        "FWHM(x)": 184.8,
+        "FWHM(y)": 206.8,
+        "imgfilename": "y_line_sum.txt",
+        "imgprocfilename": "image_analysis_data.txt"
+    },
+    "2023_02_09_09h_45m_38s_dissociation_measurement": {
+        "exclude_events": [],
+        "last_event": 48,
+        "label": "260 p6 1 230209",
+        "power": 6.0,
+        "ppdivider": 100,
+        "wavelength": 260,
+        "FWHM(x)": 167.2,
+        "FWHM(y)": 198.0,
+        "imgfilename": "y_line_sum.txt",
+        "imgprocfilename": "image_analysis_data.txt"
+    },
+    "2023_02_13_00h_00m_00s_dissociation_measurement": {
+        "exclude_events": [],
+        "last_event": 20,
+        "label": "275 p30 1 230213",
+        "power": 30.0,
+        "ppdivider": 100,
+        "wavelength": 275,
+        "FWHM(x)": 180.4,
+        "FWHM(y)": 184.8,
+        "imgfilename": "y_line_sum.txt",
+        "imgprocfilename": "image_analysis_data.txt"
+    },
+    "2023_02_14_10h_37m_15s_dissociation_measurement": {
+        "exclude_events": [],
+        "last_event": 32,
+        "label": "270 p60 1 230214",
+        "power": 60.0,
+        "ppdivider": 100,
+        "wavelength": 270,
+        "FWHM(x)": 180.4,
+        "FWHM(y)": 189.2,
+        "imgfilename": "y_line_sum.txt",
+        "imgprocfilename": "image_analysis_data.txt"
+    },
+    "2023_02_15_11h_00m_56s_dissociation_measurement": {
+        "exclude_events": [],
+        "last_event": 28,
+        "label": "267 p60 1 230215",
+        "power": 60.0,
+        "ppdivider": 100,
+        "wavelength": 267,
+        "FWHM(x)": 171.6,
+        "FWHM(y)": 189.2,
+        "imgfilename": "y_line_sum.txt",
+        "imgprocfilename": "image_analysis_data.txt"
+    },
+    "2023_02_16_11h_21m_18s_dissociation_measurement": {
+        "exclude_events": [],
+        "last_event": 26,
+        "label": "255 p6 1 230216",
+        "power": 6.0,
+        "ppdivider": 100,
+        "wavelength": 255,
+        "FWHM(x)": 167.2,
+        "FWHM(y)": 184.8,
+        "imgfilename": "y_line_sum.txt",
+        "imgprocfilename": "image_analysis_data.txt"
+    },
+    "2023_02_21_10h_39m_46s_dissociation_measurement": {
+        "exclude_events": [],
+        "last_event": 27,
+        "label": "250 p6 1 230221",
+        "power": 6.0,
+        "ppdivider": 100,
+        "wavelength": 250,
+        "FWHM(x)": 158.4,
+        "FWHM(y)": 180.4,
+        "imgfilename": "y_line_sum.txt",
+        "imgprocfilename": "image_analysis_data.txt"
+    },
+    "2023_02_22_11h_29m_14s_dissociation_measurement": {
+        "exclude_events": [],
+        "last_event": 30,
+        "label": "245 p6 1 230222",
+        "power": 6.0,
+        "ppdivider": 100,
+        "wavelength": 245,
+        "FWHM(x)": 170.0,
+        "FWHM(y)": 180.4,
+        "imgfilename": "y_line_sum.txt",
+        "imgprocfilename": "image_analysis_data.txt"
+    }
+}

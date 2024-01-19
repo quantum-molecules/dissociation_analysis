@@ -1,0 +1,8 @@
+set ion number    4
+hit exact ion number    False
+endcap voltage    83
+perform scan trap frequency    False
+diss_wavelength_[nm]    500
+pulse picker divider value    10
+measurement_info    2photon dissociation
+diss_power_[muW]    5000

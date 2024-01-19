@@ -1,0 +1,9 @@
+set ion number    3
+hit exact ion number    False
+endcap voltage    103
+perform scan trap frequency    False
+diss_wavelength_[nm]    275
+pulse picker divider value    100
+measurement_info    taking_data
+diss_power_[muW]    30
+number of events    20

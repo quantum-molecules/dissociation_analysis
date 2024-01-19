@@ -1,0 +1,89 @@
+{
+    "2023_08_02_00h_00m_00s_dissociation_measurement": {
+        "exclude_events": [],
+        "last_event": 25,
+        "label": "500 p4000 1 230801/02",
+        "power": 4000.0,
+        "ppdivider": 10,
+        "wavelength": 500,
+        "FWHM(x)": 92.4,
+        "FWHM(y)": 79.2,
+        "imgfilename": "y_line_sum.txt",
+        "imgprocfilename": "image_analysis_data.txt"
+    },
+    "2023_08_03_10h_34m_25s_dissociation_measurement": {
+        "exclude_events": [],
+        "last_event": 19,
+        "label": "500 p6000 1 230803",
+        "power": 6000.0,
+        "ppdivider": 10,
+        "wavelength": 500,
+        "FWHM(x)": 92.4,
+        "FWHM(y)": 79.2,
+        "imgfilename": "y_line_sum.txt",
+        "imgprocfilename": "image_analysis_data.txt"
+    },
+    "2023_08_24_10h_46m_18s_dissociation_measurement": {
+        "exclude_events": [],
+        "last_event": 19,
+        "label": "500 p5000 1 230824",
+        "power": 5000.0,
+        "ppdivider": 10,
+        "wavelength": 500,
+        "FWHM(x)": 88.0,
+        "FWHM(y)": 83.6,
+        "imgfilename": "y_line_sum.txt",
+        "imgprocfilename": "image_analysis_data.txt"
+    },
+    "2023_08_25_10h_46m_41s_dissociation_measurement": {
+        "exclude_events": [],
+        "last_event": 28,
+        "label": "500 p7000 1 230825",
+        "power": 7000.0,
+        "ppdivider": 10,
+        "wavelength": 500,
+        "FWHM(x)": 83.6,
+        "FWHM(y)": 83.6,
+        "imgfilename": "y_line_sum.txt",
+        "imgprocfilename": "image_analysis_data.txt"
+    },
+    "2023_08_29_11h_49m_52s_dissociation_measurement": {
+        "exclude_events": [],
+        "last_event": 28,
+        "label": "500 p9000 1 230829",
+        "power": 9000.0,
+        "ppdivider": 10,
+        "wavelength": 500,
+        "FWHM(x)": 83.6,
+        "FWHM(y)": 83.6,
+        "imgfilename": "y_line_sum.txt",
+        "imgprocfilename": "image_analysis_data.txt"
+    },
+    "2023_08_31_00h_00m_00s_dissociation_measurement": {
+        "exclude_events": [],
+        "last_event": 22,
+        "label": "500 p6000 1 230831",
+        "power": 6000.0,
+        "ppdivider": 10,
+        "wavelength": 500,
+        "FWHM(x)": 83.6,
+        "FWHM(y)": 88.0,
+        "imgfilename": "y_line_sum.txt",
+        "imgprocfilename": "image_analysis_data.txt"
+    },
+    "2023_09_01_10h_11m_43s_dissociation_measurement": {
+        "exclude_events": [
+            6,
+            10
+        ],
+        "last_event": 43,
+        "label": "500 p8300 1 230901",
+        "power": 8300.0,
+        "ppdivider": 10,
+        "wavelength": 500,
+        "FWHM(x)": 83.6,
+        "FWHM(y)": 83.6,
+        "imgfilename": "y_line_sum.txt",
+        "imgprocfilename": "image_analysis_data.txt"
+    }
+}

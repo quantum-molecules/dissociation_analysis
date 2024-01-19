@@ -1,0 +1,50 @@
+{
+    "2023_02_21_10h_39m_46s_dissociation_measurement": {
+        "exclude_events": [],
+        "last_event": 27,
+        "label": "250 p6 1 230221",
+        "power": 6.0,
+        "ppdivider": 100,
+        "wavelength": 250,
+        "FWHM(x)": 158.4,
+        "FWHM(y)": 180.4,
+        "imgfilename": "y_line_sum.txt",
+        "imgprocfilename": "image_analysis_data.txt"
+    },
+    "2023_02_28_11h_10m_39s_dissociation_measurement": {
+        "exclude_events": [],
+        "last_event": 27,
+        "label": "250 p4 1 230228",
+        "power": 4.0,
+        "ppdivider": 100,
+        "wavelength": 250,
+        "FWHM(x)": 176.0,
+        "FWHM(y)": 180.4,
+        "imgfilename": "y_line_sum.txt",
+        "imgprocfilename": "image_analysis_data.txt"
+    },    
+    "2023_03_01_10h_13m_12s_dissociation_measurement": {
+        "exclude_events": [],
+        "last_event": 20,
+        "label": "250 p10 1 230301",
+        "power": 10.0,
+        "ppdivider": 100,
+        "wavelength": 250,
+        "FWHM(x)": 171.6,
+        "FWHM(y)": 180.4,
+        "imgfilename": "y_line_sum.txt",
+        "imgprocfilename": "image_analysis_data.txt"
+    },    
+    "2023_03_02_10h_45m_42s_dissociation_measurement": {
+        "exclude_events": [],
+        "last_event": 22,
+        "label": "250 p10 1 230302",
+        "power": 10.0,
+        "ppdivider": 100,
+        "wavelength": 250,
+        "FWHM(x)": 171.6,
+        "FWHM(y)": 176.0,
+        "imgfilename": "y_line_sum.txt",
+        "imgprocfilename": "image_analysis_data.txt"
+    }
+}
