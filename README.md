@@ -2,6 +2,12 @@
 
 Data analysis of the data collected in the photodissociation measurement on CaOH+.
 
+The data is measured with an automatic script and is post-processed by going through the y_line_sum plots to filter out mark problematic trials (setting corresponding `use_data=0` in data files) when or after:
+
+- **any dark ion is generated when applying OPA light, including e.g. dark ion reappearing after disappearing in the trap.**
+
+The y_line_sum plots can be found under `output/plots` of a given experiment run.
+
 ## Dependence
 
 - Required python: >=3.8
@@ -9,19 +15,6 @@ Data analysis of the data collected in the photodissociation measurement on CaOH
 - Required packages: numpy, scipy, pandas, matplotlib
 
 ## Use
-
-1. Create a new json file for specifying which files to be included in this task in `./data_info_json`
-2. Copy the following files from remote folder to a new folder in `./input` manually or by setting `ProcessData(copy_files=True)`:
-   - `date_time_dissociation_measurement.txt`
-   - `date_time_dissociation_measurement_data.txt`
-   - `date_time_measurement_info.txt`
-   - `date_time_real_time_dissociation.txt`
-  
-   **This will overwrite the post-processed data files!**
-
-3. Set `ProcessData(process_y_line_sum=False)` when initializing the data processing class to generate plots for y_line_sum data in `./output/plots/task_name`.
-4. Post-process the data by going through the y_line_sum plots to filter out mark problematic trials (setting corresponding `use_data=0` in data files) when or after:
-   - **any dark ion is generated when applying OPA light, including e.g. dark ion reappearing after disappearing in the trap.**
 
 - *for analysing single photon dissociation data:*
   
