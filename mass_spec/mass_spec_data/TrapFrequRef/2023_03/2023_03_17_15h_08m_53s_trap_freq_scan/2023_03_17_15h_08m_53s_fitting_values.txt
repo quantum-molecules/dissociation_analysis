@@ -1,0 +1,3 @@
+method    [center frequency w0 (kHz), gamma (kHz), a, o]
+total counts    0    0    0    0
+max val    527.6879702740913    7.145540251088129e-06    18223.335862689186    0.5146564497645308

@@ -14,6 +14,8 @@ The y_line_sum plots can be found under `output/plots` of a given experiment run
 
 - Required packages: numpy, scipy, pandas, matplotlib
 
+- Required Mathematica (for mass spectrometry)
+
 ## Use
 
 - *for analysing single photon dissociation data:*
@@ -48,6 +50,7 @@ The y_line_sum plots can be found under `output/plots` of a given experiment run
 - `./autocorrelation`: analysis of the autocorrelation data
 - `./opa_spectrum`: raw data of the measured OPA spectrum, autocorrelation measurements
 - `./samples` : Monte Carlo sampling data files
+- `./mass_spec` : mass spectrometry data and data processing
 
 ## For Developement
 

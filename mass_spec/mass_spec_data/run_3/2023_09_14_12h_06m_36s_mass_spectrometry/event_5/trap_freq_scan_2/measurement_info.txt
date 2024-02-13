@@ -1,0 +1,10 @@
+endcap voltage [V]    205
+trap analysis method    ion_finder
+bright ion num    1
+dark ion num    1
+scan params    ['center', 473.8, 3, 0.2, 0]
+scan region of interest    [14, 3, 39, 9]
+measurement_info    
+397 AOM frequency    210
+image_pickup_time    0.4
+awg_tickle_amp [mV]    0

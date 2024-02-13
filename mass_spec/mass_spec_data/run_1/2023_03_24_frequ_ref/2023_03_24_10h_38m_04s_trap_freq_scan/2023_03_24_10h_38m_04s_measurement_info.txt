@@ -1,0 +1,9 @@
+endcap voltage [V]    205
+trap analysis method    peak_finder
+bright ion num    2
+dark ion num    0
+scan params    ['center', 526.5, 3, 0.1, 0]
+scan region of interest    [16, 2, 40, 8]
+measurement_info    
+image_pickup_time    0.15
+awg_tickle_amp [mV]    0
